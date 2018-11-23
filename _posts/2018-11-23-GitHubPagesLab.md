@@ -15,5 +15,4 @@ I am so loving this GitHub Lab to learn how to create this blog and everything e
       5. Deletion of branch after pull request has been accepted.
       6. And closing issues automatically using "close #1" as a description in the pull request,
          for example, to close issue number 1.
-
 **This is just all so cool and amazing. I am addicted to this stuff!!**
