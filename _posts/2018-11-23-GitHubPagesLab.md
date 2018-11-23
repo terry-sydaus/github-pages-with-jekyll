@@ -16,4 +16,4 @@ I am so loving this GitHub Lab to learn how to create this blog and everything e
       6. And closing issues automatically using "close #2" as a description in the pull request, for example, to close issue number 2.
 
 
-**This is just all so cool and amazing. I am addicted to this stuff!!**
+**This is just all so cool and amazing. I am addicted to this stuff!!**  
