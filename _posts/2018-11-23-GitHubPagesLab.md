@@ -1,3 +1,8 @@
+---
+title: "GitHub Rocks Big Time!"
+date: 2018-11-23
+---
+
 Hi Everyone...
 I am so loving this GitHub Lab to learn how to create this blog and everything else that it is teaching me, including:
 1. GitHub Pages
