@@ -14,5 +14,5 @@ I am so loving this GitHub Learning Lab to learn how to create this blog and eve
       4. Pull requests to allow commited changes to be incorporated back into the master branch.
       5. Deletion of branch after pull request has been accepted.
       6. And closing issues automatically using "close #2" as a description in the pull request, for example, to close issue number 2.
-
+  
 **This is just all so cool and amazing. I am addicted to this stuff!!**
